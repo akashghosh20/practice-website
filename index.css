@@ -9,7 +9,7 @@ div {
   margin: 6%;
   border-radius: 20px;
   font-size: 60px;
-  background-color: rgb(13, 28, 235);
+  background-color: #a8aac4d7;
   padding: 2%;
   border-left: 3px solid;
   border-image: linear-gradient(#c421bb, cyan);
@@ -17,6 +17,7 @@ div {
 }
 footer {
   text-align: center;
+  color: aquamarine;
 }
 .half-width {
   width: 30%;
