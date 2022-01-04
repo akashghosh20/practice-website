@@ -1,3 +1,6 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
 .flexible-content {
   display: flex;
   margin-bottom: 10px;
