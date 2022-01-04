@@ -1,0 +1,26 @@
+.flexible-content {
+  display: flex;
+  margin-bottom: 10px;
+}
+div {
+  margin: 6%;
+  border-radius: 20px;
+  font-size: 60px;
+  background-color: rgb(13, 28, 235);
+  padding: 2%;
+  border-left: 3px solid;
+  border-image: linear-gradient(#c421bb, cyan);
+  border-image-slice: 1;
+}
+footer {
+  text-align: center;
+}
+.half-width {
+  width: 30%;
+}
+h1 {
+  text-align: center;
+}
+span {
+  color: red;
+}
