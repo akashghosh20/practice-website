@@ -8,10 +8,19 @@ body {
 div {
   margin: 6%;
   border-radius: 20px;
-  font-size: 60px;
+  font-size: 40px;
   background-color: #a8aac4d7;
   padding: 2%;
   border-left: 3px solid;
+  border-image: linear-gradient(#c421bb, cyan);
+  border-image-slice: 1;
+  border-right: 3px solid;
+  border-image: linear-gradient(#c421bb, cyan);
+  border-image-slice: 1;
+  border-bottom: 3px solid;
+  border-image: linear-gradient(#c421bb, cyan);
+  border-image-slice: 1;
+  border-top: 3px solid;
   border-image: linear-gradient(#c421bb, cyan);
   border-image-slice: 1;
 }
